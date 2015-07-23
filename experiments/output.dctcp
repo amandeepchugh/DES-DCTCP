@@ -1,0 +1,342 @@
+Analysis/project/681 Simulation/bin$ ./experiments.sh 
+Senders: 1
+Simualtion started
+Replication 1: 100%
+Replication 2: 100%
+Replication 3: 100%
+Replication 4: 100%
+Replication 5: 100%
+Replication 6: 100%
+Replication 7: 100%
+Replication 8: 100%
+Replication 9: 100%
+Replication 10: 100%
+Collective Throughput of senders: 734.4330873519369
+
+SwitchPort of R0:
+Average Queue Length: 0.0+-0.0
+Packet Drop Prob    : 0.0
+Average Waiting Time: 0.0
+---------------------------------------------------------
+Senders: 2
+Simualtion started
+Replication 1: 100%
+Replication 2: 100%
+Replication 3: 100%
+Replication 4: 100%
+Replication 5: 100%
+Replication 6: 100%
+Replication 7: 100%
+Replication 8: 100%
+Replication 9: 100%
+Replication 10: 100%
+
+Sender S1:
+Packet Timeouts: 0.0
+Avg Window Size: 134.13856659847718+-0.5867081608097527
+Collective Throughput of senders: 1551.6030425548506
+
+SwitchPort of R0:
+Average Queue Length: 0.015521415242796396+-8.137665990208201E-4
+Packet Drop Prob    : 0.0
+Average Waiting Time: 1.3023245129432825E-7
+---------------------------------------------------------
+Senders: 3
+Simualtion started
+Replication 1: 100%
+Replication 2: 100%
+Replication 3: 100%
+Replication 4: 100%
+Replication 5: 100%
+Replication 6: 100%
+Replication 7: 100%
+Replication 8: 100%
+Replication 9: 100%
+Replication 10: 100%
+
+Sender S1:
+Packet Timeouts: 0.0
+Avg Window Size: 138.33235808056216+-0.3693401556843322
+Collective Throughput of senders: 2380.544069515474
+
+SwitchPort of R0:
+Average Queue Length: 0.06503684702991996+-8.367755830527073E-4
+Packet Drop Prob    : 0.0
+Average Waiting Time: 1.313210511364067E-7
+---------------------------------------------------------
+Senders: 4
+Simualtion started
+Replication 1: 100%
+Replication 2: 100%
+Replication 3: 100%
+Replication 4: 100%
+Replication 5: 100%
+Replication 6: 100%
+Replication 7: 100%
+Replication 8: 100%
+Replication 9: 100%
+Replication 10: 100%
+
+Sender S1:
+Packet Timeouts: 0.0
+Avg Window Size: 140.1268816345972+-0.4327379802806257
+Collective Throughput of senders: 3196.1466491686315
+
+SwitchPort of R0:
+Average Queue Length: 0.1587351699954419+-0.0013601491169418628
+Packet Drop Prob    : 0.0
+Average Waiting Time: 2.1235120839750174E-7
+---------------------------------------------------------
+Senders: 5
+Simualtion started
+Replication 1: 100%
+Replication 2: 100%
+Replication 3: 100%
+Replication 4: 100%
+Replication 5: 100%
+Replication 6: 100%
+Replication 7: 100%
+Replication 8: 100%
+Replication 9: 100%
+Replication 10: 100%
+
+Sender S1:
+Packet Timeouts: 0.0
+Avg Window Size: 141.14184314791163+-0.3462838347024965
+Collective Throughput of senders: 4023.0422015526538
+
+SwitchPort of R0:
+Average Queue Length: 0.3202018782241333+-0.0018484625509195048
+Packet Drop Prob    : 0.0
+Average Waiting Time: 3.1707387775369495E-7
+---------------------------------------------------------
+Senders: 6
+Simualtion started
+Replication 1: 100%
+Replication 2: 100%
+Replication 3: 100%
+Replication 4: 100%
+Replication 5: 100%
+Replication 6: 100%
+Replication 7: 100%
+Replication 8: 100%
+Replication 9: 100%
+Replication 10: 100%
+
+Sender S1:
+Packet Timeouts: 0.0
+Avg Window Size: 141.57575485731812+-0.34735205953098575
+Collective Throughput of senders: 4833.778724882142
+
+SwitchPort of R0:
+Average Queue Length: 0.6174954266712595+-0.007032734034404238
+Packet Drop Prob    : 0.0
+Average Waiting Time: 9.294499441823136E-7
+---------------------------------------------------------
+Senders: 7
+Simualtion started
+Replication 1: 100%
+Replication 2: 100%
+Replication 3: 100%
+Replication 4: 100%
+Replication 5: 100%
+Replication 6: 100%
+Replication 7: 100%
+Replication 8: 100%
+Replication 9: 100%
+Replication 10: 100%
+
+Sender S1:
+Packet Timeouts: 0.0
+Avg Window Size: 142.04593071655387+-0.33570695778917153
+Collective Throughput of senders: 5652.824237338637
+
+SwitchPort of R0:
+Average Queue Length: 1.2835592357618957+-0.013688736269100745
+Packet Drop Prob    : 0.0
+Average Waiting Time: 2.0116329929772433E-6
+---------------------------------------------------------
+Senders: 8
+Simualtion started
+Replication 1: 100%
+Replication 2: 100%
+Replication 3: 100%
+Replication 4: 100%
+Replication 5: 100%
+Replication 6: 100%
+Replication 7: 100%
+Replication 8: 100%
+Replication 9: 100%
+Replication 10: 100%
+
+Sender S1:
+Packet Timeouts: 0.0
+Avg Window Size: 131.17658890511487+-14.027222200398013
+Collective Throughput of senders: 6462.01520522253
+
+SwitchPort of R0:
+Average Queue Length: 3.294316234069691+-0.07479204611539517
+Packet Drop Prob    : 0.0
+Average Waiting Time: 1.0525848742203336E-5
+---------------------------------------------------------
+Senders: 9
+Simualtion started
+Replication 1: 100%
+Replication 2: 100%
+Replication 3: 100%
+Replication 4: 100%
+Replication 5: 100%
+Replication 6: 100%
+Replication 7: 100%
+Replication 8: 100%
+Replication 9: 100%
+Replication 10: 100%
+
+Sender S1:
+Packet Timeouts: 1.7419759200753386E-4
+Avg Window Size: 5.781570132980347+-1.2170411554350007
+Collective Throughput of senders: 7233.91077286562
+
+SwitchPort of R0:
+Average Queue Length: 29.913835335462796+-8.341565362497862
+Packet Drop Prob    : 6.57045191273083E-5
+Average Waiting Time: 0.0011889028871446927
+---------------------------------------------------------
+Senders: 10
+Simualtion started
+Replication 1: 100%
+Replication 2: 100%
+Replication 3: 100%
+Replication 4: 100%
+Replication 5: 100%
+Replication 6: 100%
+Replication 7: 100%
+Replication 8: 100%
+Replication 9: 100%
+Replication 10: 100%
+
+Sender S1:
+Packet Timeouts: 7.242899825648678E-5
+Avg Window Size: 6.995449733577374+-2.848831012433541
+Collective Throughput of senders: 7458.443978457342
+
+SwitchPort of R0:
+Average Queue Length: 32.133583070553584+-2.049428172861754
+Packet Drop Prob    : 1.0224760618690567E-5
+Average Waiting Time: 2.9223974188416274E-4
+---------------------------------------------------------
+Senders: 11
+Simualtion started
+Replication 1: 100%
+Replication 2: 100%
+Replication 3: 100%
+Replication 4: 100%
+Replication 5: 100%
+Replication 6: 100%
+Replication 7: 100%
+Replication 8: 100%
+Replication 9: 100%
+Replication 10: 100%
+
+Sender S1:
+Packet Timeouts: 4.756634607477867E-5
+Avg Window Size: 2.4977013892650333+-0.3527976085584192
+Collective Throughput of senders: 7358.1421650984
+
+SwitchPort of R0:
+Average Queue Length: 39.889160960643814+-4.321980687935586
+Packet Drop Prob    : 1.3925267896362445E-5
+Average Waiting Time: 6.160646118049766E-4
+---------------------------------------------------------
+Senders: 12
+Simualtion started
+Replication 1: 100%
+Replication 2: 100%
+Replication 3: 100%
+Replication 4: 100%
+Replication 5: 100%
+Replication 6: 100%
+Replication 7: 100%
+Replication 8: 100%
+Replication 9: 100%
+Replication 10: 100%
+
+Sender S1:
+Packet Timeouts: 1.4857230411587032E-5
+Avg Window Size: 2.4867260836854657+-0.36944842097454766
+Collective Throughput of senders: 7376.813276876568
+
+SwitchPort of R0:
+Average Queue Length: 36.44371145001741+-0.9370168950193769
+Packet Drop Prob    : 1.2071499709414464E-5
+Average Waiting Time: 1.3363273597898865E-4
+---------------------------------------------------------
+Senders: 13
+Simualtion started
+Replication 1: 100%
+Replication 2: 100%
+Replication 3: 100%
+Replication 4: 100%
+Replication 5: 100%
+Replication 6: 100%
+Replication 7: 100%
+Replication 8: 100%
+Replication 9: 100%
+Replication 10: 100%
+
+Sender S1:
+Packet Timeouts: 0.0
+Avg Window Size: 10.79473728272987+-0.11068496097497696
+Collective Throughput of senders: 7225.569208687204
+
+SwitchPort of R0:
+Average Queue Length: 34.53009717617611+-1.0136739930003023
+Packet Drop Prob    : 1.7883362027675983E-5
+Average Waiting Time: 1.4451471655083372E-4
+---------------------------------------------------------
+Senders: 14
+Simualtion started
+Replication 1: 100%
+Replication 2: 100%
+Replication 3: 100%
+Replication 4: 100%
+Replication 5: 100%
+Replication 6: 100%
+Replication 7: 100%
+Replication 8: 100%
+Replication 9: 100%
+Replication 10: 100%
+
+Sender S1:
+Packet Timeouts: 0.0
+Avg Window Size: 10.839580653564303+-0.016179748775233045
+Collective Throughput of senders: 7221.285007169574
+
+SwitchPort of R0:
+Average Queue Length: 34.74971128718214+-0.480533222027787
+Packet Drop Prob    : 2.4651531008478906E-5
+Average Waiting Time: 6.852586598487841E-5
+---------------------------------------------------------
+Senders: 15
+Simualtion started
+Replication 1: 100%
+Replication 2: 100%
+Replication 3: 100%
+Replication 4: 100%
+Replication 5: 100%
+Replication 6: 100%
+Replication 7: 100%
+Replication 8: 100%
+Replication 9: 100%
+Replication 10: 100%
+
+Sender S1:
+Packet Timeouts: 5.5714614043451376E-5
+Avg Window Size: 2.12557001858067+-0.10349054055103053
+Collective Throughput of senders: 7470.431213918786
+
+SwitchPort of R0:
+Average Queue Length: 32.31684858050226+-1.1657436563950105
+Packet Drop Prob    : 4.125891102049362E-5
+Average Waiting Time: 1.6623828364192064E-4
+---------------------------------------------------------
